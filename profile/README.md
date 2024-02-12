@@ -9,11 +9,11 @@ Nothing here works at this time. There is nothing to see here. There are not yet
 
 ## Goals
 
-- Allow a seamless user experience between any web pages on the browser, and things elsewhere.
+- Allow a seamless user experience between any web pages on the browser, and elsewhere.
 - Have a new way to do online contracts.
 - Help make a start for new open sourced, federated systems to trade goods and services.
 - Inside this new space grow viritual ecosystems that process data, and distribute info, much like a food web.
-- Allow for greater operability betweeen different systems.
+- Allow for greater operability between different systems.
  
 ## Current projects, or plans for those
 
