@@ -4,7 +4,7 @@
 Nothing here works at this time. There is nothing to see here. There are not yet any demos, strict api definitions, or easy to read text. This will change.
 
 ## Making entirely new ways to interact online
-* A firm believer in the rights of tiny virtual animals and plants to inhabit your web browser pages, and travel from home to home.
+* A firm believer in the rights of tiny virtual animals and plants to inhabit your browser pages, and travel from home to home.
 * Arrogant enough to think that the current social web can be made better, in very specific ways that are hazily defined
 
 ## Goals
