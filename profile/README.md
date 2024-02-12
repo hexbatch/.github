@@ -1,7 +1,7 @@
 # Hex Batch
 
 ## A tiny organization with huge ideas!
-Nothing here works at this time. There is nothing to see here. There are not yet any demos, strict api definitions, or easy to read text. This will change.
+Nothing here works at this time, there is nothing to see. There are not yet any demos, strict api definitions, or easy to read text. This will change.
 
 ## Making entirely new ways to interact online
 * A firm believer in the rights of tiny virtual animals and plants to inhabit your browser pages, and travel from home to home.
