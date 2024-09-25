@@ -1,11 +1,11 @@
 # Hex Batch
 
 ## A tiny organization with huge ideas!
-Nothing here works at this time, there is nothing to see. There are not yet any demos, strict api definitions, or easy to read text. This will change.
+Currently in progress. Nothing here works at this time. There are not yet any demos, strict api definitions, or easy to read text. 
 
 ## Making entirely new ways to interact online
 * A firm believer in the rights of tiny virtual animals and plants to inhabit your browser pages, and travel from home to home.
-* Arrogant enough to think that the current social web can be made better, in very specific ways that are hazily defined
+* Trying to find my groove
 
 ## Goals
 
